@@ -1,0 +1,39 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+}
+
+#jumbo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:hsla(168, 82%, 46%, 0.59);
+    background-color: rgba(21, 213, 175, 0.59);
+    font-family: 'Special Elite', cursive;
+}
+
+#learnMore{
+    background-color:transparent;
+    border-color: #2c2e3a;
+    color: #2c2e3a;
+    font-family: 'Special Elite', cursive;
+
+}
+#learnMore:hover{
+    background-color: yellow;
+}
+#navSearch{
+    background-color: transparent;
+    color: black;
+    border: 1px;
+    border-color: black;
+}
+#navSearch:hover{
+    background-color: yellow
+}
+
+
+.navbar{
+    background-color: #3e5c6a
+}
