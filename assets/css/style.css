@@ -61,3 +61,13 @@ body{
     font-size: 24px;
     text-align: center;
 }
+#about-me-body{
+    background-image: url("../images/project1.jpg");
+    background-size: 100%;
+}
+#project1Text{
+    color: beige;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
