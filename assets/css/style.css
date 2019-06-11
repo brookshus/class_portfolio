@@ -23,14 +23,19 @@ body{
 #learnMore:hover{
     background-color: yellow;
 }
-#navSearch{
-    background-color: transparent;
-    color: black;
-    border: 1px;
-    border-color: black;
+#seeproject1{
+    background-color:transparent;
+    border-color: beige;
+    color: beige;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    display: flex;
+  justify-content: center;
+
 }
-#navSearch:hover{
-    background-color: yellow
+#seeproject1:hover{
+    background-color: yellow;
+    color: #2c2e3a;
 }
 
 
